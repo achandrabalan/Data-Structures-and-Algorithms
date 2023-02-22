@@ -1,0 +1,3 @@
+/Users/aathi/CLionProjects/a69chand/a1/cmake-build-debug/CMakeFiles/syde233-a1.dir
+/Users/aathi/CLionProjects/a69chand/a1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aathi/CLionProjects/a69chand/a1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
